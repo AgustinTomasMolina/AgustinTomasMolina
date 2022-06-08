@@ -1,6 +1,7 @@
 #  🎇 Bievenidos a mi perfil de GitHub 🎇
 
 ## Me puedes contactar en 📡:
+- agustomasmolina@hotmail.com / agustintomasmolina1999@gmail.com <img src = "./email.png" width = "25px"> &nbsp;
 - [Instagram](https://www.instagram.com/molii_ag/) <img src = "./instagram.png" width = "25px"> &nbsp;
 - [Twitter](https://twitter.com/AgusMolina99) <a href="https://twitter.com/AgusMolina99">
   <img align="center" alt="AgusMolina99 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
