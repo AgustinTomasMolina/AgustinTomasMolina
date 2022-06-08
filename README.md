@@ -9,8 +9,8 @@
 - [Twitter](https://twitter.com/AgusMolina99)
 
 ## Mis conocimientos:
-- Manejo basico de HTML y CSS.
-- Manejo de JavaScript.
+- <img src = "./html.png" width = "25px"> &nbsp; <img src = "./css-3.png" width = "25px"> &nbsp; Manejo basico de HTML y CSS.
+- <img src = "./js.png" width = "25px"> &nbsp; Manejo de JavaScript.
 - Conocimiento de back-end Node.js con JavaScript, Express.js, Socket.io
 - Conocimientos de BD Relacionales como SQL, MySQL y MongoDB
 
