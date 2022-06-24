@@ -14,10 +14,10 @@
 - <img src = "./Icons/js.png" width = "25px"> &nbsp;
 ####  Manejo de JavaScript.
 
-- <img src = "./Icons/mongodb.png" width = "25px"> &nbsp; <img src = "./Icons/mysql.png" width = "25px"> &nbsp; <img src = "./Icons/nodejs.png" width = "25px"> &nbsp;
+- <img src = "./Icons/nodejs.png" width = "25px"> &nbsp;
 #### Conocimiento de back-end Node.js con JavaScript, Express.js, Socket.io 
 
-- <img src = "./Icons/sql.png" width = "25px"> &nbsp; 
+- <img src = "./Icons/sql.png" width = "25px"> &nbsp; <img src = "./Icons/mongodb.png" width = "25px"> &nbsp; <img src = "./Icons/mysql.png" width = "25px"> &nbsp; 
 #### Conocimientos de BD Relacionales como SQL, MySQL y MongoDB
 
 ### Linkdink y Platzi
